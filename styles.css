@@ -105,7 +105,7 @@ body {
 }
 
 .image-container{
-    background-image: url('images/_BB2509211.jpg');
+    background-image: url('images/BB2509211.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: calc(100% - 146px);
